@@ -18,3 +18,7 @@ AGENTS.md
 
 # Experimental code/artifacts
 dev/
+
+# fleet: experiment bookkeeping stays untracked (program.md protocol)
+results.tsv
+run.log
